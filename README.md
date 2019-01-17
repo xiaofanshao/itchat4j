@@ -1,2 +1,0 @@
-# itchat4j
-weixinbot
